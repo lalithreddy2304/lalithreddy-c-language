@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int x = 25;
+    int *p = &x;
+    int **pp = &p;
+
+    printf("x = %d\n", x);
+    printf("*p = %d\n", *p);
+    printf("**pp = %d\n", **pp);
+
+    // Changing value through pointer-to-pointer
+    **pp = 50;
+    printf("New value of x = %d\n", x);
+
+    return 0;
+}
