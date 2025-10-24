@@ -26,11 +26,7 @@ C programs using functions and recursion:
 - Simple Function Example
 - Add Two Numbers Using Function
 - Recursion (Factorial Example)
-
----
-
- ## What’s Next
-I’ll be adding more topics soon:
+- ###
 - Arrays  
 - Strings  
 - Pointers  
