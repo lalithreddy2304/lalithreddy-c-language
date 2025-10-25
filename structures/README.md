@@ -2,7 +2,7 @@
 
 This repository contains simple and beginner-friendly examples of using *Structures in C*.
 
-## 🚀 What You’ll Learn
+##  What You’ll Learn
 
 - Declaring and initializing structures
 - Accessing structure members
@@ -13,7 +13,7 @@ This repository contains simple and beginner-friendly examples of using *Structu
 
 ---
 
-### 📌 Run the Code
+### Run the Code
 
 ```bash
 gcc main.c -o structures
